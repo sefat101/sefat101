@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bash Scripting<br>Bash Project<br>Web App Development<br>Python Scripting<br>Cybersecurity
+💻 Currently Working On: A challenging bash scripting project—exploring automation and efficiency in the terminal! 🤝 Open to Contributions: I'd love for you to join in and share your ideas or improvements. Collaboration always makes things better! 🔐 Ask Me About: Cybersecurity! From securing systems to ethical hacking, I’m always up for a good discussion.
 
 
 ## 🌐 Socials:
